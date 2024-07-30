@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<ModInfo>
-		<Name value="ImprovedRWG"/>
-		<Description value="Make RWG great again"/>
-		<Author value="Magedaddy"/>
-		<Version value="1"/>
-		<Website value="https://google.com"/>
-	</ModInfo>
+	<Name value="Magedad_Improved_RWG"/>
+	<DisplayName value="Improved_RWG"/>
+	<Version value="2.0"/>
+	<Description value="Make RWG great again"/>
+	<Author value="Magedaddy"/>
 </xml>
